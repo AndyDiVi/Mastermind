@@ -1,4 +1,6 @@
 # Laboratory 2 – Solving Mastermind using a Genetic Algorithm
+<img width="250" height="287" alt="Mastermind" src="https://github.com/user-attachments/assets/725f09a9-48db-4bfd-b4ac-3738b0202ca6" />
+<img width="347" height="258" alt="mastermind" src="https://github.com/user-attachments/assets/1b33365a-a729-4eff-bbee-cdc54422b0e1" />
 
 Authors: Graziani, Di Via & Hiller-Szala
 
